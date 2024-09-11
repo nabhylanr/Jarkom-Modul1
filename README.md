@@ -1,8 +1,16 @@
 # Jarkom-Modul1
 
 ## Soal 1
+a. Berapa banyak packet yang terekam pada file pcapng?
+b. Ada berapa jenis protocol yang terekam pada traffic?
+c. Sebutkan secara berurutan berdasarkan alfabet menurun dengan koma sebagai separator, contoh: protocol1,protocol2!
 
 ## Soal 2
+a. Berapa banyak paket berbasis TCP yang memiliki flag [RST, ACK]?
+b. Berapa banyak paket berbasis TCP yang hanya memiliki flag [SYN]?
+c. Berapa banyak paket berbasis TCP yang memiliki flag ACK, tapi tidak memiliki [SYN], dan tidak memiliki [RST]?
+
+
 
 ## Soal 3
 

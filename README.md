@@ -10,9 +10,11 @@ a. Berapa banyak paket berbasis TCP yang memiliki flag [RST, ACK]?
 b. Berapa banyak paket berbasis TCP yang hanya memiliki flag [SYN]?
 c. Berapa banyak paket berbasis TCP yang memiliki flag ACK, tapi tidak memiliki [SYN], dan tidak memiliki [RST]?
 
-
-
 ## Soal 3
+a. Pada port berapa server http terbuka?
+b. Berapa byte file response yang dikirim dari server?
+c. Berapa jumlah file yang terdapat pada server?
+d. Sebutkan nama file secara berurutan berdasarkan alfabet menurun dengan koma sebagai separator, contoh: file1,file2!
 
 ## Soal 4 
 Protokol apa yang paling banyak terdapat di file hasil capture traffic?
